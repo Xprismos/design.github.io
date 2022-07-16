@@ -32,7 +32,7 @@ body{
     flex-direction: column;
 }
 
-.box{
+.logo{
     display: flex;
     height: 30%;
     
@@ -43,7 +43,7 @@ P#a{
     color: white;
 }
 
-.box2{
+.form{
     display: flex;
     height: 45%;
     width: 80%;
@@ -52,7 +52,7 @@ P#a{
     border-radius: 25px;
 }
 
-.aa{
+.form-head{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -60,7 +60,7 @@ P#a{
     margin: 20px;
 }
 
-span#d{
+.form-input-name{
     background-color: grey;
     width: 90%;
     height: 30px;
@@ -75,18 +75,18 @@ span#d{
     
 }
 
-span#e{
+.form-input{
     
     margin-left: 4px;
 }
 
-.bb{
+.form-content{
     margin: 20px;
     display: flex;
     flex-direction: column;
 }
 
-span#c{
+.form-name{
     margin-bottom: 5px;
     color: grey;
 }
@@ -95,7 +95,7 @@ span#b{
     color: grey;
 }
 
-.box3{
+.bottom{
     position: relative;
     display: flex;
     height: 50px;
@@ -108,7 +108,7 @@ span#b{
   
 }
 
-.box3a{
+.bottom-circle{
   
     display: flex;
     height: 40px;
@@ -121,7 +121,7 @@ span#b{
   
 }
 
-.box4{
+.footer{
     display: flex;
     color: grey;
 }
